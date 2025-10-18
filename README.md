@@ -17,7 +17,7 @@ This project combines **foundational risk management**, **secure software develo
 * **Cybersecurity & Risk Management:** Threat modeling, vulnerability analysis, risk assessment
 * **Courses & Digital Badges Completed:**
 
-[![Foundational Risk Management – Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Foundational%20Risk%20Management-blue?style=for-the-badge)](https://training.linuxfoundation.org/)
+[![Secure Software Development – Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Foundational%20Risk%20Management-blue?style=for-the-badge)](https://www.credly.com/badges/9e896d25-b10d-44b2-b510-22adc0a3440c/)
 
 [![Cybersecurity Essentials – Credly Badge](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-orange?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
 
@@ -80,7 +80,7 @@ Secure-Risk-Management/
 
 ## 🏆 Achievements & Digital Badges
 
-* [![Foundational Risk Management – Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Foundational%20Risk%20Management-blue?style=for-the-badge)](https://training.linuxfoundation.org/) – 100% COMPLETE
+* [![Secure Software Development – Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Foundational%20Risk%20Management-blue?style=for-the-badge)](https://www.credly.com/badges/9e896d25-b10d-44b2-b510-22adc0a3440c) – 100% COMPLETE
 * [![Cybersecurity Essentials – Credly Badge](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-orange?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
 * Applied **secure software development principles** in projects
 * Developed **documentation templates** for repeatable risk assessments
@@ -102,7 +102,3 @@ This project is educational and open-source friendly. Contributions are welcome 
 This project is licensed under **[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)** — free to use and adapt with proper attribution.
 
 ---
-
-If you want, I can **also make a version where the badges are smaller, aligned side by side at the top of the README**, so it looks super clean and portfolio-ready on GitHub.
-
-Do you want me to do that next?
