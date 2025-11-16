@@ -21,6 +21,11 @@ This project combines **foundational risk management**, **secure software develo
 
 [![Cybersecurity Essentials – Credly Badge](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-orange?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
 
+![Preview](./asset/Linux_Essential_cisco.png)
+
+
+
+
 * **Frameworks & Standards:** NIST RMF, ISO 27001
 * **Soft Skills:** Security documentation, reporting, and secure coding best practices
 
