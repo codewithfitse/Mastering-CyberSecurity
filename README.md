@@ -99,7 +99,7 @@ Secure-Risk-Management/
 * Applied **secure software development principles** in projects
 * Developed **documentation templates** for repeatable risk assessments
 
-<img src="./asset/Linux-essentials.png" alt="TryHackMe Badge" width="50" />
+<img src="./asset/linux-essentials.png" alt="TryHackMe Badge" width="50" />
 
 ---
 
