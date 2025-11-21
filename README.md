@@ -17,9 +17,10 @@ This project combines **foundational risk management**, **secure software develo
 * **Cybersecurity & Risk Management:** Threat modeling, vulnerability analysis, risk assessment
 * **Courses & Digital Badges Completed:**
 
-[![Secure Software Development – Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Foundational%20Risk%20Management-blue?style=for-the-badge)(https://www.credly.com/badges/9e896d25-b10d-44b2-b510-22adc0a3440c/)]
+[![Secure Software Development – Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Foundational%20Risk%20Management-blue?style=for-the-badge)](https://www.credly.com/badges/9e896d25-b10d-44b2-b510-22adc0a3440c/)
 
-[![Cybersecurity Essentials Cisco – Credly Badge](https://www.credly.com/badges/c6f2f53b-5312-42e0-9fdf-bb04135ecd7f/public_url)
+[![Cybersecurity Essentials Cisco – Credly Badge](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-orange?style=for-the-badge)](https://www.credly.com/badges/c6f2f53b-5312-42e0-9fdf-bb04135ecd7f/public_url)
+
 
 ![Preview](./asset/Linux_Essential_cisco.png)
 
@@ -31,7 +32,7 @@ This project combines **foundational risk management**, **secure software develo
 
 ![Preview](./asset/OffensiveSecurity.png)
 
-[![Try_Hack_Me – DefensiveSecurity Badge](https://img.shields.io/badge/Defensive%20Security-TryHackMe-red?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)]
+[![Try_Hack_Me – DefensiveSecurity Badge](https://img.shields.io/badge/Defensive%20Security-TryHackMe-red?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
 
 ![Preview](./asset/DefensiveSecurity.png)
 
