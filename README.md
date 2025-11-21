@@ -38,7 +38,7 @@ This project combines **foundational risk management**, **secure software develo
 
 ![Preview](./asset/DefensiveSecurity.png)
 
-[![Try_Hack_Me – SearchSkills Badge](https://img.shields.io/badge/Search%Skill-TryHackMe-green?style=for-the-badge)](https://tryhackme.com/room/offensivesecurityintrokK)
+[![Try_Hack_Me – SearchSkills Badge](https://img.shields.io/badge/Search%20Skill-TryHackMe-green?style=for-the-badge)](https://tryhackme.com/room/offensivesecurityintrokK)
 
 ![Preview](./asset/SearchSkills.png)
 
