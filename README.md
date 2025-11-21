@@ -83,7 +83,7 @@ Secure-Risk-Management/
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/CodeWithfitse/Secure-Risk-Management.git
+   git clone https://github.com/CodeWithfitse/Mastering-CyberSecurity.git
    ```
 2. Review **examples/** for sample risk assessments.
 3. Check **secure_code/** for **secure software development examples**.
