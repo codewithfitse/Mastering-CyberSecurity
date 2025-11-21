@@ -27,11 +27,11 @@ This project combines **foundational risk management**, **secure software develo
 * **Soft Skills:** Security documentation, reporting, and secure coding best practices
 
 
-[![Try_Hack_Me – OffensiveSecurity Badge](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-green?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
+[![Try_Hack_Me – OffensiveSecurity Badge](https://img.shields.io/badge/Offensive%20Security-TryHackMe-green?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
 
 ![Preview](./asset/OffensiveSecurity.png)
 
-[![Try_Hack_Me – DefensiveSecurity Badge](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-orange?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
+[![Try_Hack_Me – DefensiveSecurity Badge](https://img.shields.io/badge/Defensive%20Security-TryHackMe-red?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
 
 ![Preview](./asset/DefensiveSecurity.png)
 
