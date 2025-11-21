@@ -38,6 +38,10 @@ This project combines **foundational risk management**, **secure software develo
 
 ![Preview](./asset/DefensiveSecurity.png)
 
+[![Try_Hack_Me – SearchSkills Badge](https://img.shields.io/badge/Search%Skill-TryHackMe-green?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
+
+![Preview](./asset/SearchSkills.png)
+
 ---
 
 ## 📌 Features
