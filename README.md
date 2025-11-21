@@ -99,7 +99,7 @@ Secure-Risk-Management/
 * Applied **secure software development principles** in projects
 * Developed **documentation templates** for repeatable risk assessments
 
-<img src="./asset/linux-essentials.png" alt="linux-essentials Badge" width="100" /> <img src="./asset/CyberSecurityEssentials.jpg" alt="CyberSequrityEssentials Badge" width="100" />  <img src="./asset/DevelopingSecureSoftware.jpg" alt="DevelopingSecureSoftware" width="100" />
+<img src="./asset/linux-essentials.png" alt="linux-essentials Badge" width="100" /> <img src="./asset/CyberSecurityEssentials.jpg" alt="CyberSequrityEssentials Badge" width="100" />  <img src="./asset/DevelopingSecureSoftware.png" alt="DevelopingSecureSoftware" width="100" />
 
 
 ---
