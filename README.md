@@ -19,21 +19,21 @@ This project combines **foundational risk management**, **secure software develo
 
 [![Secure Software Development – Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Foundational%20Risk%20Management-blue?style=for-the-badge)(https://www.credly.com/badges/9e896d25-b10d-44b2-b510-22adc0a3440c/)]
 
-[![Cybersecurity Essentials Cisco – Credly Badge](https://www.credly.com/badges/c6f2f53b-5312-42e0-9fdf-bb04135ecd7f/public_url)]
+[![Cybersecurity Essentials Cisco – Credly Badge](https://www.credly.com/badges/c6f2f53b-5312-42e0-9fdf-bb04135ecd7f/public_url)
 
-![Preview](./asset/Linux_Essential_cisco.png)]
+![Preview](./asset/Linux_Essential_cisco.png)
 
 * **Frameworks & Standards:** NIST RMF, ISO 27001
 * **Soft Skills:** Security documentation, reporting, and secure coding best practices
 
 
-[![Try_Hack_Me – OffensiveSecurity Badge](https://img.shields.io/badge/Offensive%20Security-TryHackMe-green?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)]
+[![Try_Hack_Me – OffensiveSecurity Badge](https://img.shields.io/badge/Offensive%20Security-TryHackMe-green?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
 
-![Preview](./asset/OffensiveSecurity.png)]
+![Preview](./asset/OffensiveSecurity.png)
 
 [![Try_Hack_Me – DefensiveSecurity Badge](https://img.shields.io/badge/Defensive%20Security-TryHackMe-red?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)]
 
-![Preview](./asset/DefensiveSecurity.png)]
+![Preview](./asset/DefensiveSecurity.png)
 
 ---
 
