@@ -100,6 +100,7 @@ Secure-Risk-Management/
 
 * [![Secure Software Development – Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Foundational%20Risk%20Management-blue?style=for-the-badge)](https://www.credly.com/badges/9e896d25-b10d-44b2-b510-22adc0a3440c) – 100% COMPLETE
 * [![Cybersecurity Essentials – Credly Badge](https://img.shields.io/badge/Cybersecurity%20Essentials-Credly-orange?style=for-the-badge)](https://www.credly.com/badges/46c560b7-4997-4bef-a1df-94921b89efe2)
+* [![TryHackMe – TryHackMe Badge](https://img.shields.io/badge/TryHackMe%20Linux-Credly-red?style=for-the-badge)](https://tryhackme.com/NightAbyss/badges/terminaled)
 * Applied **secure software development principles** in projects
 * Developed **documentation templates** for repeatable risk assessments
 
